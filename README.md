@@ -24,14 +24,14 @@ Testing is mainly performed in two ways, which are:
 2.  Accecptance Testing
 3.  System Testing
 
-![](http://www.professionalqa.com/assets/images/manual-testing.jpg)  
+![Manual Testing methods](http://www.professionalqa.com/assets/images/manual-testing.jpg)  
 
 ### Automation Testing:
 
 *   Different Tools are used in this process to test an application
 *   This type of testing requires less man power as everything is automated and for future enhancements we only require few modifications to the existing script
 
-![](https://www.joecolantonio.com/wp-content/uploads/2018/11/AutomationTestingProcess.png)  
+![Automation Testing methods](https://www.joecolantonio.com/wp-content/uploads/2018/11/AutomationTestingProcess.png)  
 
 # Image Courtesy
 
@@ -41,5 +41,5 @@ Testing is mainly performed in two ways, which are:
 # References
 
 1. [https://www.guru99.com/testing-tools.html](https://www.guru99.com/testing-tools.html)
-2. https://www.utest.com/tools
+2. [https://www.utest.com/tools](https://www.utest.com/tools)
 3. [https://www.qasymphony.com/blog/test-automation-automated-testing/](https://www.qasymphony.com/blog/test-automation-automated-testing/)
