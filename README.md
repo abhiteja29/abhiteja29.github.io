@@ -37,9 +37,9 @@ Testing is mainly performed in two ways, which are:
 
 ## Image Courtesy
 
-1.  [http://professionlqa.com](http://professionlqa.com)
-2.  [http://joecolantonio.com](http://joecolantonio.com)
-3.  [http://p9cdn4static.sharpschool.com](http://p9cdn4static.sharpschool.com)
+1. [https://professionlqa.com](https://professionlqa.com)
+2. [https://joecolantonio.com](https://joecolantonio.com)
+3. [https://p9cdn4static.sharpschool.com](https://p9cdn4static.sharpschool.com)
 
 ## References
 
