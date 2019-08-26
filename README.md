@@ -37,8 +37,8 @@ Testing is mainly performed in two ways, which are:
 
 ## Image Courtesy
 
-1. [https://professionlqa.com](https://professionlqa.com)
-2. [https://joecolantonio.com](https://joecolantonio.com)
+1. [https://www.joecolantonio.com/wp-content/uploads/2018/11/AutomationTestingProcess.png](https://www.joecolantonio.com/wp-content/uploads/2018/11/AutomationTestingProcess.png)
+2. [http://www.professionalqa.com/assets/images/manual-testing.jpg](http://www.professionalqa.com/assets/images/manual-testing.jpg)
 3. [http://p9cdn4static.sharpschool.com/UserFiles/Servers/Server_15215/Image/Victor%20Valley%20Union/CIMS/Students/TEST.png](http://p9cdn4static.sharpschool.com/UserFiles/Servers/Server_15215/Image/Victor%20Valley%20Union/CIMS/Students/TEST.png)
 
 ## References
