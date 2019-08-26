@@ -1,4 +1,4 @@
-# abhiteja.github.io
+
 Project1: Markdown
 
 # Testing and its types
