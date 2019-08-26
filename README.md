@@ -35,11 +35,11 @@ Testing is mainly performed in two ways, which are:
 
 # Image Courtesy
 
-1.  professionlqa.com
-2.  joecolantonio.com
+1.  [professionlqa.com](professionlqa.com)
+2.  [joecolantonio.com](joecolantonio.com)
 
 # References
 
 1. [https://www.guru99.com/testing-tools.html](https://www.guru99.com/testing-tools.html)
-2. [https://www.utest.com/tools](https://www.utest.com/tools)
-3. [url](https://www.qasymphony.com/blog/test-automation-automated-testing/)
+2. (https://www.utest.com/tools)
+3. [https://www.qasymphony.com/blog/test-automation-automated-testing/](https://www.qasymphony.com/blog/test-automation-automated-testing/)
